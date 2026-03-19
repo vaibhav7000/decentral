@@ -1,3 +1,3 @@
 git add . -> brings the files to the staging area
 git restore --staged filename -> bring files to the untracked / working directory area
-
+git restore filename -> removes changes from the files present in the working directory
